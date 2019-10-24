@@ -13,13 +13,20 @@ Goal:
 To escape hell within the allotted 24 hours
 
 Space Types:
-Dungeon Hallway Theater Apt Hospital
+Dungeon 
+Hallway 
+Theater 
+Apt 
+Hospital
 
 Character Types
 User:
 Player 
-Monsters: Audience
-Ex Boyfriend Cerberus Grim Reaper
+Monsters: 
+Audience
+Ex Boyfriend 
+Cerberus 
+Grim Reaper
 
 Structure:
 Game Engine class runs a Map class that has a 2D array of Space pointers as a member.
